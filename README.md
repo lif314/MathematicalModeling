@@ -1,6 +1,5 @@
 # Mathematical-Modeling
-数学建模记录(我很菜，不喜勿喷)
-
+数学建模学习与分享
 
 
 ## 1. Latex模板

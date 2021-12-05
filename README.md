@@ -26,7 +26,3 @@
 - 排版技巧：https://www.bilibili.com/video/BV1Ci4y1c7Ld
 
 - 常见算法与代码：https://github.com/lif314/MathematicalModeling/tree/main/%E6%95%B0%E6%A8%A1%E8%B5%84%E6%96%99/%E7%AE%97%E6%B3%95%E4%B8%8E%E4%BB%A3%E7%A0%81
-
-> 百度网盘链接：https://pan.baidu.com/s/1UNNX25JivY1gRNXoSx6_KA 
-> 
-> 提取码：6kxb

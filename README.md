@@ -10,6 +10,9 @@
 
 - Latex文档：https://www.overleaf.com/learn
 
+https://gitee.com/lilinfei314/PicGo/blob/master/pic/202201301930031.jpg
+
+https://gitee.com/lilinfei314/PicGo/blob/master/pic/202201301930033.png
 
 
 ## 2. 比赛记录

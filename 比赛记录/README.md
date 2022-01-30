@@ -12,6 +12,11 @@
 
 ![image-20211203103129773](image/image-20211203103129773-16384986920182.png)
 
+
+![img](https://gitee.com/lilinfei314/PicGo/blob/master/pic/202201301930031.jpg)
+
+![img](https://gitee.com/lilinfei314/PicGo/blob/master/pic/202201301930033.png)
+
 ## 国赛 ----  乙醇偶合制备C4 烯烃
 
 ![image-20211203103217176](image/image-20211203103217176-16384987390383.png)
